@@ -1,0 +1,301 @@
+OrderID,Product,Category,Quantity,UnitPrice (GHS),OrderDate,CustomerRegion,PurchasedAgain
+ORD0001,Asaase Wura,Weedicide,39,81.69,2023-09-28,Volta,No
+ORD0002,NPK,Fertilizer,43,80.17,2023-01-21,Western,No
+ORD0003,Asaase Wura,Weedicide,39,50.12,2023-08-03,Ashanti,No
+ORD0004,Maize,Seed,11,51.33,2023-04-10,Ashanti region,Yes
+ORD0005,NPK,Fertilizer,40,73.73,2023-05-30,Eastern,Yes
+ORD0006,NPK,Fertilizer,2,,2023-10-21,Eastern,No
+ORD0007,Maize,Seed,2,26.36,2023-10-04,Eastern Region,No
+ORD0008,NPK,Fertilizer,33,37.38,2023-01-22,Eastern,Yes
+ORD0009,Maize,Seed,44,12.08,2023-02-28,Eastern,Yes
+ORD0010,soyabean,Seed,42,14.2,2023-07-07,Ashanti,Yes
+ORD0011,tomato,Seed,16,30.95,2023-06-24,Volta,Yes
+ORD0012,Ammonia Sulphate,Fertilizer,44,56.28,2023-11-16,Western,No
+ORD0013,Asaase Wura,Weedicide,3,87.39,2023-05-15,Ashanti,No
+ORD0014,Asaase Wura,Weedicide,21,50.54,2023-10-01,Volta,Yes
+ORD0015,tomato,Seed,4,94.8,2023-01-14,Eastern,No
+ORD0016,NPK,Fertilizer,9,11.44,2023-12-06,Western,Yes
+ORD0017,MAIZE,Seed,28,49.61,2023-09-21,Eastern,Yes
+ORD0018,Asaase Wura,Weedicide,47,25.6,2023-03-22,Volta,Yes
+ORD0019,tomato,Seed,36,26.4,2023-01-02,Volta,Yes
+ORD0020,NPK,Fertilizer,6,28.71,2023-09-17,Volta,No
+ORD0021,soyabean,Seed,29,97.26,2023-08-06,eastern reg,Yes
+ORD0022,Asaase Wura,Weedicide,44,94.55,2023-09-27,Northern,Yes
+ORD0023,soyabean,Seed,31,92.97,2023-08-03,Eastern,Yes
+ORD0024,NPK,Fertilizer,40,86.01,2023-08-25,Ashanti,Yes
+ORD0025,Asaase Wura,Weedicide,18,58.57,2023-10-07,Ashanti,Yes
+ORD0026,Maize,Seed,26,96.87,2023-07-07,Volta_reg,No
+ORD0027,soyabean,Seed,45,22.68,2023-01-15,Eastern,Yes
+ORD0028,Maize,Seed,45,16.71,2023-11-23,Volta,Yes
+ORD0029,NPK,Fertilizer,9,79.5,2023-05-16,Eastern,No
+ORD0030,Maize,Seed,24,11.27,2023-03-22,Ashanti,Yes
+ORD0031,Asaase Wura,Weedicide,8,75.61,2023-10-16,Volta,No
+ORD0032,soyabean,Seed,5,93.37,2023-02-10,Western,No
+ORD0033,Asaase Wura,Weedicide,28,87.68,2023-11-24,Northern,No
+ORD0034,NPK,Fertilizer,12,39.78,2023-02-17,Eastern,No
+ORD0035,NPK,Fertilizer,23,70.2,2023-10-20,Northern,No
+ORD0036,NPK,Fertilizer,35,63.22,2023-08-02,Western,No
+ORD0037,soyabean,Seed,27,60.51,2023-08-15,Western,Yes
+ORD0038,Ammonia Sulphate,Fertilizer,37,97.45,2023-05-11,Northern,Yes
+ORD0039,Asaase Wura,Weedicide,1,74.96,2023-09-12,Northern,No
+ORD0040,soyabean,Seed,14,54.44,2023-07-26,Western,Yes
+ORD0041,Asaase Wura,Weedicide,15,19.98,2023-06-28,Northern,No
+ORD0042,NPK,Fertilizer,32,67.28,2023-02-21,Volta,Yes
+ORD0043,NPK,Fertilizer,32,72.6,2023-08-19,Northern,Yes
+ORD0044,soyabean,Seed,45,58.59,2023-01-29,Ashanti,Yes
+ORD0045,Ammonia Sulphate,Fertilizer,36,94.86,2023-11-23,Western,Yes
+ORD0046,Asaase Wura,Weedicide,22,89.24,2023-06-19,Northern,Yes
+ORD0047,NPK,Fertilizer,45,36.61,2023-05-14,Western,Yes
+ORD0048,Ammonia Sulphate,Fertilizer,28,82.33,2023-02-13,Ashanti,Yes
+ORD0049,Asaase Wura,Weedicide,20,90.33,2023-11-27,Northern,Yes
+ORD0050,NPK,Fertilizer,28,42.07,2023-07-09,Ashanti region,Yes
+ORD0051,Maize,Seed,33,34.49,2023-10-10,Volta,No
+ORD0052,Ammonia Sulphate,Fertilizer,13,87.47,2023-12-25,Eastern,Yes
+ORD0053,Asaase Wura,Weedicide,6,55.97,2023-05-17,Volta,No
+ORD0054,Ammonia Sulphate,Fertilizer,37,72.32,2023-08-22,ashanti,Yes
+ORD0055,Asaase Wura,Weedicide,44,31.97,2023-11-11,Volta,No
+ORD0056,Asaase Wura,Weedicide,32,56.69,2023-08-21,Western,Yes
+ORD0057,NPK,Fertilizer,49,15.84,2023-02-21,Northern,No
+ORD0058,soyabean,Seed,12,32.66,2023-04-23,Northern,No
+ORD0059,soyabean,Seed,37,35.64,2023-03-22,Ashanti,Yes
+ORD0060,soyabean,Seed,49,97.9,2023-08-08,Volta,Yes
+ORD0061,Maize,Seed,23,35.08,2023-08-13,Volta,Yes
+ORD0062,Ammonia Sulphate,Fertilizer,1,31.56,2023-05-10,Eastern,Yes
+ORD0063,NPK,Fertilizer,44,50.3,2023-07-17,Ashanti,Yes
+ORD0064,Ammonia Sulphate,Fertilizer,32,63.34,2023-07-22,Western,No
+ORD0065,Ammonia Sulphate,Fertilizer,17,75.54,2023-10-07,Western,Yes
+ORD0066,soyabean,Seed,5,66.91,2023-07-17,Eastern,Yes
+ORD0067,Maize,Seed,22,58.22,2023-08-28,Western,Yes
+ORD0068,soyabean,Seed,16,85.18,2023-05-04,Western,No
+ORD0069,Ammonia Sulphate,Fertilizer,6,72.62,2023-09-16,Volta,No
+ORD0070,Asaase Wura,Weedicide,20,39.34,2023-12-12,Eastern,Yes
+ORD0071,,Seed,3,82.86,2023-05-28,,No
+ORD0072,Asaase Wura,Weedicide,32,18.66,2023-05-08,Eastern,No
+ORD0073,soyabean,Seed,39,94.31,2023-05-09,Western,Yes
+ORD0074,NPK,Fertilizer,11,40.7,2023-05-31,Eastern,Yes
+ORD0075,NPK,Fertilizer,31,88.96,2023-04-09,Ashanti region,No
+ORD0076,NPK,Fertilizer,,69.4,2023-12-12,Ashanti,Yes
+ORD0077,Asaase Wura,Weedicide,48,59.97,2023-03-01,Ashanti,Yes
+ORD0078,Asaase Wura,Weedicide,49,31.77,2023-10-31,Volta,Yes
+ORD0079,Maize,Seed,12,60.25,2023-06-09,Eastern,Yes
+ORD0080,Ammonia Sulphate,Fertilizer,9,35.1,2023-05-27,Eastern,No
+ORD0081,Ammonia Sulphate,Fertilizer,48,86.2,2023-06-01,Northern,No
+ORD0082,NPK,Fertilizer,33,67.78,2023-03-16,Volta,Yes
+ORD0083,Maize,Seed,49,24.55,2023-04-14,Western,Yes
+ORD0084,Ammonia Sulphate,Fertilizer,20,62.26,2023-04-22,Volta,Yes
+ORD0085,Ammonia Sulphate,Fertilizer,25,69.72,2023-12-15,Ashanti,Yes
+ORD0086,soyabean,Seed,18,24.47,2023-12-04,Ashanti,No
+ORD0087,NPK,Fertilizer,2,72.27,2023-07-27,Eastern,Yes
+ORD0088,Ammonia Sulphate,Fertilizer,41,25.83,2023-03-09,Western,Yes
+ORD0089,soyabean,Seed,33,54.45,2023-10-31,Western,Yes
+ORD0090,Maize,Seed,20,42.98,2023-05-15,Western,Yes
+ORD0091,Asaase Wura,Weedicide,3,69.19,2023-02-02,Northern,Yes
+ORD0092,soyabean,Seed,48,18.43,2023-01-22,Volta,No
+ORD0093,NPK,Fertilizer,46,63.09,2023-08-18,Ashanti,Yes
+ORD0094,NPK,Fertilizer,45,53.81,2023-09-21,Eastern Region,No
+ORD0095,Asaase Wura,Weedicide,27,49.1,2023-10-04,Northern,Yes
+ORD0096,maize,Seed,30,68.06,2023-11-13,Western,Yes
+ORD0097,Ammonia Sulphate,Fertilizer,48,35.27,2023-02-04,Eastern,Yes
+ORD0098,NPK,Fertilizer,49,13.92,2023-06-21,Western,No
+ORD0099,Ammonia Sulphate,Fertilizer,28,52.3,2023-02-15,Northern,No
+ORD0100,soyabean,Seed,6,43.31,2023-08-21,Eastern,Yes
+ORD0101,Ammonia Sulphate,Fertilizer,37,93.55,2023-10-29,Western,Yes
+ORD0102,Ammonia Sulphate,Fertilizer,31,96.73,2023-04-26,Ashanti,No
+ORD0103,Asaase Wura,Weedicide,21,27.18,2023-06-10,Northern,Yes
+ORD0104,Maize,Seed,3,25.25,2023-10-08,Volta_reg,Yes
+ORD0105,Maize,Seed,42,94.25,2023-02-27,,No
+ORD0106,Ammonia Sulphate,Fertilizer,3,61.31,2023-10-07,Volta,Yes
+ORD0107,NPK,Fertilizer,32,70.4,2023-05-31,Volta,Yes
+ORD0108,Asaase Wura,Weedicide,2,32.87,2023-09-30,Eastern,Yes
+ORD0109,soyabean,Seed,40,72.73,2023-10-26,Western,Yes
+ORD0110,NPK,Fertilizer,48,59.75,2023-06-19,Volta,Yes
+ORD0111,soyabean,Seed,26,82.91,2023-01-13,Northern,No
+ORD0112,soyabean,Seed,7,55.14,2023-06-22,Northern,Yes
+ORD0113,NPK,Fertilizer,20,68.5,2023-05-22,Northern,Yes
+ORD0114,Maize,Seed,12,89.8,2023-05-23,eastern reg,Yes
+ORD0115,Ammonia Sulphate,Fertilizer,28,62.1,2023-10-15,Volta,Yes
+ORD0116,soyabean,Seed,23,70.48,2023-02-20,Eastern,No
+ORD0117,Ammonia Sulphate,Fertilizer,25,23.95,2023-07-09,Eastern,Yes
+ORD0118,NPK,Fertilizer,22,63.17,2023-12-08,Western,Yes
+ORD0119,Asaase Wura,Weedicide,49,13.36,2023-11-22,Ashanti region,No
+ORD0120,Asaase Wura,Weedicide,15,42.42,2023-04-11,Volta,Yes
+ORD0121,Maize,Seed,33,84.51,2023-03-01,Northern,Yes
+ORD0122,Ammonia Sulphate,Fertilizer,44,96.87,2023-04-13,Eastern,Yes
+ORD0123,soyabean,Seed,4,85.78,2023-12-16,Ashanti,Yes
+ORD0124,Ammonia Sulphate,Fertilizer,47,72.96,2023-11-04,Volta,Yes
+ORD0125,NPK,Fertilizer,16,97.83,2023-05-04,Ashanti,Yes
+ORD0126,Maize,Seed,42,39.07,2023-05-25,Northern,No
+ORD0127,soyabean,Seed,19,49.51,2023-12-12,Ashanti,Yes
+ORD0128,Maize,Seed,37,26.59,2023-11-14,Eastern,Yes
+ORD0129,Maize,Seed,23,48.55,2023-05-09,Volta,Yes
+ORD0130,NPK,Fertilizer,1,49.81,2023-04-06,Volta,No
+ORD0131,Ammonia Sulphate,Fertilizer,,26.46,2023-08-25,Northern,No
+ORD0132,Asaase Wura,Weedicide,1,95.94,2023-07-11,Northern,No
+ORD0133,NPK,Fertilizer,5,65.05,2023-09-04,Volta,Yes
+ORD0134,Ammonia Sulphate,Fertilizer,3,32.3,2023-05-24,Eastern,No
+ORD0135,Ammonia Sulphate,Fertilizer,37,20.81,2023-10-12,Western,Yes
+ORD0136,Ammonia Sulphate,Fertilizer,14,18.26,2023-02-16,Ashanti,Yes
+ORD0137,Asaase Wura,Weedicide,49,38.03,2023-07-23,Eastern,Yes
+ORD0138,soyabean,Seed,16,18.81,2023-12-07,Volta,Yes
+ORD0139,Ammonia Sulphate,Fertilizer,39,41.17,2023-09-11,Volta,No
+ORD0140,soyabean,Seed,30,68.48,2023-09-07,Northern,Yes
+ORD0141,Asaase Wura,Weedicide,10,95.42,2023-04-10,Eastern Region,Yes
+ORD0142,soyabean,Seed,34,33.48,2023-09-07,Western,Yes
+ORD0143,Ammonia Sulphate,Fertilizer,19,55.28,2023-09-14,Volta,No
+ORD0144,Ammonia Sulphate,Fertilizer,5,71.56,2023-01-16,Western,Yes
+ORD0145,NPK,Fertilizer,24,94.95,2023-09-15,Western,No
+ORD0146,Asaase Wura,Weedicide,49,88.05,2023-06-09,Eastern,Yes
+ORD0147,NPK,Fertilizer,27,82.09,2023-06-27,Western,No
+ORD0148,Asaase Wura,Weedicide,35,67.9,2023-06-28,Western,No
+ORD0149,Maize,Seed,43,94.73,2023-11-19,Volta,No
+ORD0150,Ammonia Sulphate,Fertilizer,1,96.51,2023-11-26,Ashanti,No
+ORD0151,Asaase Wura,Weedicide,43,27.62,2023-01-12,Eastern,Yes
+ORD0152,Maize,Seed,31,43.95,2023-09-10,Ashanti,Yes
+ORD0153,Maize,Seed,35,40.29,2023-03-31,Ashanti,Yes
+ORD0154,Maize,Seed,8,44.69,2023-03-31,Northern,Yes
+ORD0155,Ammonia Sulphate,Fertilizer,34,33.46,2023-07-15,Volta,Yes
+ORD0156,Ammonia Sulphate,Fertilizer,45,94.3,2023-08-05,Eastern,Yes
+ORD0157,Asaase Wura,Weedicide,21,97.08,2023-06-13,Western,Yes
+ORD0158,soyabean,Seed,10,48.11,2023-07-11,Volta,No
+ORD0159,NPK,Fertilizer,35,99.15,2023-02-05,Ashanti,No
+ORD0160,tomato,Seed,18,32.5,2023-04-06,Western,Yes
+ORD0161,Asaase Wura,Weedicide,24,88.04,2023-08-12,Ashanti,No
+ORD0162,Asaase Wura,Weedicide,37,31.47,2023-07-02,Eastern,No
+ORD0163,Ammonia Sulphate,Fertilizer,13,76.59,2023-12-21,Eastern,No
+ORD0164,tomato,Seed,41,44,2023-03-03,Northern,Yes
+ORD0165,tomato,Seed,20,84.38,2023-12-08,Eastern,No
+ORD0166,Ammonia Sulphate,Fertilizer,13,90.6,2023-06-26,Eastern,No
+ORD0167,Maize,Seed,36,10.98,2023-08-21,Ashanti,No
+ORD0168,Ammonia Sulphate,Fertilizer,19,18.22,2023-10-11,Eastern,Yes
+ORD0169,NPK,Fertilizer,14,70.91,2023-02-21,Northern,Yes
+ORD0170,maize,Seed,19,54.37,2023-05-24,Eastern,Yes
+ORD0171,Asaase Wura,Weedicide,5,36.39,2023-01-25,Ashanti,Yes
+ORD0172,Asaase Wura,Weedicide,21,77.71,2023-05-31,Ashanti,Yes
+ORD0173,tomato,Seed,16,81.07,2023-04-19,Eastern,No
+ORD0174,Asaase Wura,Weedicide,42,97.68,2023-08-11,Ashanti,No
+ORD0175,NPK,Fertilizer,5,76.33,2023-08-09,Volta,Yes
+ORD0176,Asaase Wura,Weedicide,43,73.52,2023-08-27,Western,No
+ORD0177,tomato,Seed,12,71.92,2023-09-10,Northern,Yes
+ORD0178,Ammonia Sulphate,Fertilizer,38,17.57,2023-05-21,Ashanti,No
+ORD0179,tomato,Seed,40,16.55,2023-10-10,Western,No
+ORD0180,Ammonia Sulphate,Fertilizer,2,17.32,2023-06-14,Northern,No
+ORD0181,NPK,Fertilizer,38,98.8,2023-12-31,Ashanti,Yes
+ORD0182,tomato,Seed,1,89.23,2023-05-25,Northern,No
+ORD0183,Maize,Seed,7,98.74,2023-05-12,Volta,Yes
+ORD0184,NPK,Fertilizer,36,43.86,2023-10-02,Northern,Yes
+ORD0185,Asaase Wura,Weedicide,44,60.26,2023-04-01,Eastern,No
+ORD0186,Asaase Wura,Weedicide,10,91.57,2023-02-08,Western,Yes
+ORD0187,tomato,Seed,3,32.83,2023-08-30,Eastern,No
+ORD0188,Asaase Wura,Weedicide,28,61.43,2023-05-28,Volta,Yes
+ORD0189,Asaase Wura,Weedicide,28,79.05,2023-12-27,Western,No
+ORD0190,Ammonia Sulphate,Fertilizer,39,77.14,2023-12-14,Volta,Yes
+ORD0191,tomato,Seed,49,17.46,2023-04-27,Northern,No
+ORD0192,NPK,Fertilizer,6,82.19,2023-06-22,Ashanti,No
+ORD0193,Asaase Wura,Weedicide,32,60.04,2023-10-30,Eastern,Yes
+ORD0194,Asaase Wura,Weedicide,21,13.91,2023-08-01,Western,Yes
+ORD0195,Ammonia Sulphate,Fertilizer,11,92.72,2023-06-13,Ashanti,No
+ORD0196,Asaase Wura,Weedicide,35,72.59,2023-02-16,Volta,Yes
+ORD0197,Ammonia Sulphate,Fertilizer,41,29.51,2023-05-23,Western,Yes
+ORD0198,Asaase Wura,Weedicide,31,99.62,2023-02-23,Western,Yes
+ORD0199,tomato,Seed,3,91.1,2023-01-12,Ashanti,No
+ORD0200,NPK,Fertilizer,10,95.54,2023-12-24,Ashanti,No
+ORD0201,Maize,Seed,12,19.61,2023-01-08,Eastern,Yes
+ORD0202,tomato,Seed,28,68.22,2023-05-16,Volta,Yes
+ORD0203,NPK,Fertilizer,28,17,2023-02-10,Northern,Yes
+ORD0204,Ammonia Sulphate,Fertilizer,36,98.76,2023-05-25,Western,Yes
+ORD0205,Asaase Wura,Weedicide,9,37.86,2023-07-31,Northern,Yes
+ORD0206,Ammonia Sulphate,Fertilizer,13,71.63,2023-02-15,Northern,Yes
+ORD0207,Asaase Wura,Weedicide,35,84.03,2023-03-23,Ashanti,No
+ORD0208,Asaase Wura,Weedicide,5,65.21,2023-01-10,Ashanti,No
+ORD0209,Maize,Seed,30,87.95,2023-12-31,Ashanti,Yes
+ORD0210,Ammonia Sulphate,Fertilizer,5,12.37,2023-10-16,ASHANTI,No
+ORD0211,Maize,Seed,1,53.23,2023-08-27,Eastern Region,No
+ORD0212,Ammonia Sulphate,Fertilizer,49,43.91,2023-10-09,Ashanti,No
+ORD0213,Asaase Wura,Weedicide,25,97.29,2023-10-10,Eastern,Yes
+ORD0214,Ammonia Sulphate,Fertilizer,49,85.45,2023-04-08,Volta,Yes
+ORD0215,tomato,Seed,41,47.33,2023-11-07,Ashanti,Yes
+ORD0216,Asaase Wura,Weedicide,6,72.25,2023-07-16,Northern,Yes
+ORD0217,Maize,Seed,31,77.49,2023-09-16,Ashanti,No
+ORD0218,NPK,Fertilizer,23,79.21,2023-06-14,Western,Yes
+ORD0219,Maize,Seed,10,86.47,2023-05-25,Eastern,Yes
+ORD0220,Ammonia Sulphate,Fertilizer,21,50.55,2023-01-01,Northern,Yes
+ORD0221,Maize,Seed,45,64.56,2023-10-15,Eastern,Yes
+ORD0222,Asaase Wura,Weedicide,34,42.23,2023-03-13,Eastern,No
+ORD0223,Asaase Wura,Weedicide,39,70.44,2023-06-11,Eastern,Yes
+ORD0224,tomato,Seed,3,56.81,2023-09-25,Ashanti,No
+ORD0225,tomato,Seed,1,59.67,2023-08-10,Ashanti,No
+ORD0226,tomato,Seed,17,22.06,2023-10-30,Western,Yes
+ORD0227,Ammonia Sulphate,Fertilizer,23,77.96,2023-12-07,Eastern,No
+ORD0228,NPK,Fertilizer,14,73.37,2023-04-13,Eastern,Yes
+ORD0229,Asaase Wura,Weedicide,38,65.55,2023-08-14,Ashanti,No
+ORD0230,Ammonia Sulphate,Fertilizer,38,64.73,2023-12-04,Ashanti,Yes
+ORD0231,tomato,Seed,30,59.93,2023-11-04,Northern,Yes
+ORD0232,tomato,Seed,38,50.58,2023-12-01,ASHANTI,No
+ORD0233,Maize,Seed,30,65.99,2023-02-20,Northern,Yes
+ORD0234,Maize,Seed,17,95.46,2023-05-18,Western,Yes
+ORD0235,Asaase Wura,Weedicide,17,54.29,2023-12-06,Northern,No
+ORD0236,soyabean,Seed,24,14.13,2023-09-19,Western,Yes
+ORD0237,Asaase Wura,Weedicide,2,39.59,2023-08-23,Volta_reg,No
+ORD0238,soyabean,Seed,43,31.61,2023-04-21,Northern,Yes
+ORD0239,Asaase Wura,Weedicide,23,21.52,2023-04-05,Volta,No
+ORD0240,Ammonia Sulphate,Fertilizer,11,22.49,2023-01-08,Volta,No
+ORD0241,Asaase Wura,Weedicide,4,26.37,2023-07-03,Ashanti,No
+ORD0242,soyabean,Seed,25,90.71,2023-07-14,Volta,No
+ORD0243,NPK,Fertilizer,27,70.08,2023-03-02,Volta,Yes
+ORD0244,Asaase Wura,Weedicide,19,83.96,2023-04-02,Volta,No
+ORD0245,soyabean,Seed,42,25.93,2023-11-22,Eastern,Yes
+ORD0246,Asaase Wura,Weedicide,1,58.1,2023-01-12,Western,No
+ORD0247,NPK,Fertilizer,26,90.48,2023-03-19,Ashanti,Yes
+ORD0248,Ammonia Sulphate,Fertilizer,26,72.14,2023-03-14,eastern reg,Yes
+ORD0249,NPK,Fertilizer,26,81.95,2023-05-01,ashanti,Yes
+ORD0250,Ammonia Sulphate,Fertilizer,22,17.36,2023-12-16,Western,No
+ORD0251,Maize,Seed,43,92.88,2023-03-02,Ashanti region,No
+ORD0252,NPK,Fertilizer,17,34.92,2023-09-14,Eastern,No
+ORD0253,soyabean,Seed,8,77.34,2023-09-10,Western,Yes
+ORD0254,MAIZE,Seed,15,58.29,2023-02-25,Ashanti,Yes
+ORD0255,NPK,Fertilizer,22,31.25,2023-01-28,Western,Yes
+ORD0256,Asaase Wura,Weedicide,23,57.81,2023-12-31,,Yes
+ORD0257,soyabean,Seed,26,13.3,2023-11-08,Eastern,Yes
+ORD0258,Maize,Seed,7,71.84,2023-08-26,Western,Yes
+ORD0259,Asaase Wura,Weedicide,43,57.89,2023-10-01,Western,No
+ORD0260,Ammonia Sulphate,Fertilizer,38,57.94,2023-01-15,Eastern,Yes
+ORD0261,soyabean,Seed,25,76.37,2023-01-28,Ashanti,Yes
+ORD0262,soyabean,Seed,10,60.76,2023-09-30,Northern,Yes
+ORD0263,Ammonia Sulphate,Fertilizer,,,2023-05-06,Western,Yes
+ORD0264,Asaase Wura,Weedicide,44,30.99,2023-01-13,Ashanti,Yes
+ORD0265,Ammonia Sulphate,Fertilizer,20,52.66,2023-03-08,Northern,No
+ORD0266,Ammonia Sulphate,Fertilizer,41,54.86,2023-04-21,Volta,Yes
+ORD0267,Asaase Wura,Weedicide,36,58.34,2023-02-03,Volta,Yes
+ORD0268,Ammonia Sulphate,Fertilizer,47,77.09,2023-08-24,Western,Yes
+ORD0269,soyabean,Seed,19,44.09,2023-04-11,Western,No
+ORD0270,Asaase Wura,Weedicide,6,90.97,2023-11-16,Ashanti,No
+ORD0271,Asaase Wura,Weedicide,34,31.99,2023-11-11,Ashanti,No
+ORD0272,Asaase Wura,Weedicide,45,39.73,,Western,Yes
+ORD0273,soyabean,Seed,22,30.28,2023-03-11,Western,Yes
+ORD0274,Maize,Seed,48,24.46,2023-11-27,Western,Yes
+ORD0275,Asaase Wura,Weedicide,30,25.6,2023-11-07,ASHANTI,No
+ORD0276,soyabean,Seed,9,17.22,2023-08-31,Volta,No
+ORD0277,Asaase Wura,Weedicide,31,46.94,2023-02-05,Western,Yes
+ORD0278,Ammonia Sulphate,Fertilizer,24,20.08,2023-11-18,Northern,No
+ORD0279,Asaase Wura,Weedicide,20,97.25,2023-01-04,Ashanti,No
+ORD0280,Asaase Wura,Weedicide,15,83.54,2023-04-04,Ashanti,Yes
+ORD0281,Maize,Seed,38,70.18,2023-07-13,Eastern,No
+ORD0282,soyabean,Seed,15,58.15,2023-01-26,eastern region,No
+ORD0283,Asaase Wura,Weedicide,45,79.25,2023-11-22,Volta_region,Yes
+ORD0284,Asaase Wura,Weedicide,26,39.13,2023-10-02,Northern,Yes
+ORD0285,soyabean,Seed,20,55.68,2023-04-23,Ashanti,Yes
+ORD0286,Asaase Wura,Weedicide,12,20.34,2023-03-31,Eastern,Yes
+ORD0287,tomato,Seed,14,35.98,2023-10-20,Northern,Yes
+ORD0288,NPK,Fertilizer,11,93.88,2023-11-29,Western,Yes
+ORD0289,Maize,Seed,43,63.45,2023-06-27,Volta,No
+ORD0290,NPK,Fertilizer,10,59.37,2023-05-18,Eastern,No
+ORD0291,NPK,Fertilizer,44,28.16,2023-06-17,Ashanti,Yes
+ORD0292,Asaase Wura,Weedicide,2,17.91,2023-11-15,Western,No
+ORD0293,Maize,Seed,37,10.24,2023-09-22,Volta,Yes
+ORD0294,Asaase Wura,Weedicide,11,52.58,2023-02-07,Eastern,No
+ORD0295,,Seed,35,41.4,2023-11-01,Western,Yes
+ORD0296,tomato,Seed,5,84.76,2023-08-24,Western,Yes
+ORD0297,Asaase Wura,Weedicide,14,93.96,2023-05-17,ASHANTI,Yes
+ORD0298,Ammonia Sulphate,Fertilizer,34,26.31,2023-02-04,Northern,No
+ORD0299,NPK,Fertilizer,1,76.7,2023-03-01,Western,No
+ORD0300,Asaase Wura,Weedicide,29,22.58,2023-12-27,Volta,Yes
